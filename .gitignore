@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.o
+*.so
+
+.ipynb_checkpoints/
+
+_khash_ffi.c
